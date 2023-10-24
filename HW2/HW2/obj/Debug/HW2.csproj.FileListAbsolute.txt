@@ -1,0 +1,7 @@
+C:\Users\Alexander\RiderProjects\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\Alexander\RiderProjects\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\Alexander\RiderProjects\HW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Alexander\RiderProjects\HW2\HW2\obj\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexander\RiderProjects\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\RiderProjects\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\Alexander\RiderProjects\HW2\HW2\obj\Debug\HW2.pdb
